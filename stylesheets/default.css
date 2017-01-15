@@ -16,7 +16,7 @@ p {font-size:18px;margin-bottom:32px;line-height:32px;font-family:Georgia, "Time
 button {cursor:pointer;text-transform:uppercase;color:white;font-family:"Fjalla One", sans-serif;font-weight:normal;background:transparent;border:solid 3px white;}
 a {color:black;text-decoration:none;}
 a:hover {color:#B41B1D;}
-p a:hover {background-color:#B41B1D;color:black;}
+p a:hover {background-color:#B41B1D;color:white;}
 
 .flexbox {display:-webkit-flex;display:-ms-flexbox;display:flex;overflow:hidden;}
 
@@ -34,7 +34,7 @@ header div.intro {float:left;width:55%;padding:5%;}
 header div.intro h1 {float:left;text-transform:uppercase;text-align:left;color:#B41B1D;position:relative;width:100%;}
 header div.intro h1 img {float:left;width:25%;height:auto;position:inherit;padding-right:5%;margin-right:5%;border-right:solid 2px #B41B1D;margin-top:-2%;}
 header div.intro p {float:left;width:100%;font-style:italic;font-size:2.6vw;line-height:3.6vw;}
-header div.intro p a {font-family:"Fjalla One", sans-serif;color:;}
+header div.intro p a {font-family:"Fjalla One", sans-serif;}
 header div.intro p strong {font-weight:normal;}
 header div.intro button {width:auto;font-size:2.4vw;padding:2% 10%;margin-top:0.5em;color:#B41B1D;border-color:#B41B1D;}
 header div.intro button:hover {border-color:black;color:black;}
@@ -58,6 +58,7 @@ header div.intro a.animated:hover span, header div.intro a.animated:hover span s
 #bio p.intro strong, #bio p a {font-family:"Fjalla One", sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;}
 #bio div {-webkit-column-count:2;-moz-column-count:2;column-count:2;width:60%;margin:0 auto;max-width:740px;}
 #bio h2, #bio h3 {color:black;}
+#bio h2 {margin-bottom:2em;}
 #bio h3 {border-bottom:1px solid black;}
 #bio p a {font-size:16px;}
 
@@ -73,19 +74,21 @@ header div.intro a.animated:hover span, header div.intro a.animated:hover span s
 #work {background-color:#F3F2EE;}
 #work h2 {margin-bottom:2em;}
 #work ul {max-width:1400px;margin:0 auto;}
-#work li {display:inline;float:left;width:30%;height:268px !important;background-color:white;border-top:solid 3px #B41B1D;flex:1;margin-bottom:5em;}
+#work li {display:inline;float:left;width:30%;height:265px;overflow:hidden;background-color:white;border-top:solid 3px #B41B1D;flex:1;margin-bottom:5%;}
 #work li:nth-child(2), #work li:nth-child(5), #work li:nth-child(8){margin-left:5%;margin-right:5%;}
+#work li a figure {position:relative;}
 #work li h4 {padding:1em;padding-bottom:0.4em;}
 #work li h4 small {float:right;color:#666;}
 #work h4 {padding-bottom:0;}
-#work li a figure {position:relative;}
 #work li a figure img {width:100%;height:auto;-webkit-filter: grayscale(1); -webkit-filter: grayscale(100%);filter: gray; filter: grayscale(100%);filter: url(desaturate.svg#greyscale);border-bottom:solid 3px black;}
-#work li a figure figcaption {font-size:16px;opacity:0;margin-top:-5em;position:absolute;padding:1em;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;text-align:center;background-color:black;color:white;width:100%;}
 #work li a:hover, #work li a:focus {color:white;}
 #work li a:hover figure img, #work li a:focus figure img {-webkit-filter:none;-webkit-filter:none;filter:none;filter:none;filter:none;opacity:0;}
-#work li a figure img.replace {position:absolute;top:0;left:0em;opacity:0;-webkit-filter: blur(3px);filter:blur(3px);}
-#work li a:hover figure img.replace, #work li a:focus figure img.replace {opacity:1;-webkit-filter:none;filter:none;}
-#work li a:hover figure figcaption, #work li a:focus figure figcaption {margin-top:-0.1em;opacity:1;}
+#work li a figure img.replace {position:absolute;top:0em;left:0em;opacity:0;-webkit-filter: blur(3px);filter:blur(3px);}
+#work li a:hover figure img.replace, #work li a:focus figure img.replace {opacity:0.9;-webkit-filter:none;filter:none;}
+#work li a figure dl {position:absolute;top:-5%;left:0;width:100%;height:100%;font-size:16px;opacity:0;padding:1em;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;text-align:left;background-color:#B41B1D;color:white;}
+#work li a dl dt {font-weight:normal;font-family:"Fjalla One", sans-serif;font-style:normal;color:black;}
+#work li a dl dd {margin-bottom:0.3em;}
+#work li a:hover figure dl, #work li a:focus figure dl {opacity:0.9;top:0%;}
 
 #stats {background-color:#B41B1D;color:white;}
 #stats h2 {color:white;border-color:white;}
@@ -165,7 +168,7 @@ footer nav a {display:inline;text-decoration:none;}
 	#recent-work img {width:40%;}
 	
 	#work {padding-bottom:0;}
-	#work li {width:100%;margin-bottom:8em;}
+	#work li {width:100%;margin-bottom:4em;height:auto;}
 	#work li h4 {font-size:18px;}
 	#work li:nth-child(2), #work li:nth-child(5), #work li:nth-child(8){margin-left:0;margin-right:0;}
 	#work li a {color:white;}
@@ -198,6 +201,8 @@ footer nav a {display:inline;text-decoration:none;}
 	
 	#personal li a strong {font-size:1.4em;}
 	#personal li a small {font-size:1em;}
+	
+	#why div br {display:none;}
 }
 
 /* Smartphones (portrait and landscape) ----------- */
@@ -230,6 +235,7 @@ footer nav a {display:inline;text-decoration:none;}
 	#why p.intro {font-size:18px;line-height:24px;width:90%;}
 	#why div {-webkit-column-count:1;-moz-column-count:1;column-count:1;width:90%;margin:0 auto;}
 	#why div p {font-size:16px;line-height:26px;}	
+	#why div br {display:none;}
 
 	#bio {padding-top:15%;}
 	#bio p.intro big {font-size:18px;line-height:24px;width:90%;}
@@ -244,6 +250,7 @@ footer nav a {display:inline;text-decoration:none;}
 	#work {padding-bottom:5%;}
 	#work li {width:100%;}
 	#work li:nth-child(2), #work li:nth-child(5), #work li:nth-child(8){margin-left:0;margin-right:0;}
+	#work h4 span {display:none;}
 	
 	#stats h2 {margin-bottom:10%;}
 	#stats p {display:none;}
@@ -276,6 +283,8 @@ footer nav a {display:inline;text-decoration:none;}
 	header div img {width:100%;height:auto;position:absolute;bottom:-50%;left:2%;}
 	header div.intro.col {width:100% !important;float:left;height:40%;margin-top:0;}
 	header div.col {margin-top:115%;}
+	
+	#why div br {display:none;}
 }
 /*Animations*/
 a.bounce {

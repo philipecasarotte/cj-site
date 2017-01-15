@@ -72,11 +72,6 @@ $(window).scroll(function(){
         if($(item).position().top <= winTop){
 			$(".selected").removeClass("selected");
 			$("nav a[rel='#"+$(item).attr("id")+"']").addClass("selected");
-			// if($(item).attr("id") == "bio" || $(item).attr("id") == "work" || $(item).attr("id") == "why"){
-// 				$("nav a").css("border-color", "#EFEFEF");
-// 			}else{
-// 				$("nav a").css("border-color", "black");
-// 			};
         };
     });
 });

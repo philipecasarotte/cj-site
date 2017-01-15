@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html ng-app>
     <head>
+		<!-- #############################
+		Here at Cornell Tech, you will take part in an innovative environment where creativity,
+		technical depth and leadership share seats at the table. We value expressions of who you are
+		and what you add to this formula. Please provide an example of your creativity, style,
+		and technical depth by sending us a link to your work or providing a written sample.
+		
+		Your submission should highlight your personal experiences that demonstrate your creativity,
+		leadership and technical abilities. In particular, feel free to elaborate on projects you have completed,
+		their creative and technical aspects; any entrepreneurial or leadership experiences;
+		and your professional career goals and the benefit from the tech ecosystem in New York City and Johnson Cornell Tech MBA.
+		
+		You may simply upload a Word or PDF document with an essay, or you may provide a link to any sort of media online.
+		This may include videos, blogs, or any other multimedia expression you desire.
+		############################# -->
+		
         <meta charset="utf-8"/>
         <title>Philipe Casarotte — Hands-on Product Manager</title>
 		<meta name="description" content="Philipe Casarotte is DBurns Head of Production & Product Manager. I am Philipe. He is a product manager with hands-on experience in software development, user experience, and digital strategy."/>
@@ -49,13 +64,12 @@
 		<section id="why">
 			<p class="intro"><big><strong>Why Johnson: </strong>I believe Cornell will not only help me not be blind-sighted from a business and strategic perspective but also help me achieve an excellent level of well seasoned leadership, always making sure that decisions are made with high moral standards and great business results.</big></p>
 			<div>
-				<h3>Career Goal</h3>
-				<p>As my main career goal, I want to help create the ethical conducts within the Artificial Intelligence (AI) industry. Currently, almost every industry is implementing AI, whether it is home entertainment or Tesla’s autopilot driving car. As technology becomes an integral part of our lives, it is crucial to raise the bar for ethics and the standardization of AI. I have a unique experience of living in two countries and working with people around the world; therefore, I am focused on influencing how the process of creating ethical technology will consider different cultures, beliefs, and resources.</p>
-				<h3>Short Term</h3>
+				<h3>Long Term Goal</h3>
+				<p>As my career goal, I want to help create ethical conducts within the Artificial Intelligence (AI) industry. As technology has become an integral part of our lives, it is crucial to raise the bar for ethics of AI. I have a unique experience of living in two countries and working with people around the world; therefore, I am focused on influencing how the process of creating ethical technology will consider different cultures, beliefs, and resources.</p>
+				<h3>Short Term Goal</h3>
 				<p>For me to achieve my primary career goal, first I desire to work as a Product Manager (PM) in an established tech company that is at the forefront of Artificial Intelligence Research & Development. This will allow me to gain a broader understanding of all aspects of this industry.</p>
-				<h3>How can Cornell Help me</h3>
-				<p>What I hope to gain from Johnson Cornell Tech MBA Program is to develop my leadership skills, since I believe having excellent and ethical leadership in the tech world is what will assure technological advancements are made with high moral standards making sure human beings are placed above the machine. On top of that,  an effective Product Manager must have an in-depth understanding of the enterprise as a whole, and I want to gain knowledge on the business side of things, such as finance, and business strategy. But what attracts me the most at Cornell's MBA is the possibility of connecting with people from diverse industries, as I foresee artificial intelligence permeating all types of businesses and affecting our society. Having peers in different areas will make sure we can work collaboratively and implement better ideas for positively impacting our world.</p>
-				<h3>Conclusion</h3>
+				<br/><br/><br/><h3>Johnson Cornell Tech MBA Program</h3>
+				<p>What I hope to gain from Johnson Cornell Tech MBA Program is to develop my leadership skills, since I believe having excellent and ethical leadership in the tech world is what will assure technological advancements are made with high moral standards making sure human beings are considered above the machine. Furthermore, I find Cornell to have the best balance between business, technology, and leadership.</p>
 				<p>Ultimately, I choose Cornell because I firmly believe that you don’t have to compromise human interaction values to achieve optimal business results. I choose Cornell so I can challenge the way we are used to doing business, to show the world that we are not titles, we are not degrees, we are relational beings that will most likely fail when deciding to isolate, segregate or divide.</p>
 			</div>
 		</section>
@@ -66,7 +80,7 @@
 					<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html">#workingondiettable</a>
 				</h2>
 				<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html"><img src="images/logos/diet-table-logo.png" width="94" height="78" alt="Diet Table"/></a>
-				<p>Marketing Research, Branding, UX, Front-end development. Meal plans for your dietary preferences.</p>
+				<p>Marketing Research, Branding, UX, and Implementation. Meal plans for your preferred diet type.</p>
 			</div>
 		</section>
 		<section id="work">
@@ -76,11 +90,16 @@
 					<a href="http://www.sunbit.com">
 						<h4>Sunbit</h4>
 						<figure>
-							<img src="images/featured-projects/sunbit.jpg" alt="Sunbit" width="16" height="9"/>
-							<img src="images/featured-projects/sunbit-logo.jpg" alt="Sunbit - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Payment method. Credit, Debit, Sunbit. Branding. UX. Fornt end.
-							</figcaption>
+							<img src="images/featured-projects/sunbit-logo.jpg" alt="Sunbit - Logo" width="16" height="9"/>
+							<img src="images/featured-projects/sunbit.jpg" alt="Sunbit" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>Branding, UX, and Implementation.</dd>
+								<dt>Role:</dt>
+								<dd>Project Manager, UX Lead</dd>
+								<dt>Hands-On:</dt>
+								<dd>UX</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
@@ -88,11 +107,16 @@
 					<a href="https://www.insedia.com">
 						<h4>Insedia</h4>
 						<figure>
-							<img src="images/featured-projects/alter-agents.jpg" alt="Alter Agents" width="16" height="9"/>
-							<img src="images/featured-projects/alter-agents-logo.jpg" alt="Alter Agents - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Branding and digital presence for Alter Agents - A market research company.
-							</figcaption>
+							<img src="images/featured-projects/insedia-logo.jpg" alt="Insedia - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/insedia.jpg" alt="Insedia" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>Branding, UX, Implementation, and Digital Marketing.</dd>
+								<dt>Role:</dt>
+								<dd>Product Manager</dd>
+								<dt>Hands-On:</dt>
+								<dd>Landing Pages, PPC Ads, Display Ads</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
@@ -100,94 +124,127 @@
 					<a href="https://www.alteragents.com">
 						<h4>Alter Agents</h4>
 						<figure>
-							<img src="images/featured-projects/alter-agents.jpg" alt="Alter Agents" width="16" height="9"/>
-							<img src="images/featured-projects/alter-agents-logo.jpg" alt="Alter Agents - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Branding and digital presence for Alter Agents - A market research company.
-							</figcaption>
+							<img src="images/featured-projects/alter-agents-logo.jpg" alt="Alter Agents - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/alter-agents.jpg" alt="Alter Agents" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>Branding, UX, Implementation, Digital Strategy.</dd>
+								<dt>Role:</dt>
+								<dd>Project Manager, UX Lead</dd>
+								<dt>Hands-On:</dt>
+								<dd>UX, HubSpot, Digital Strategy</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 				<li>
 					<a href="https://www.beckmenvineyards.com">
-						<h4>Beckmen Vineyards <small>#5awards</small></h4>
+						<h4>Beckmen <span>Vineyards</span> <small>5 Awards / 50% More Sales</small></h4>
 						<figure>
-							<img src="images/featured-projects/beckmen-vineyards.jpg" alt="Beckmen Vineyards" width="16" height="9"/>
-							<img src="images/featured-projects/beckmen-vineyards-logo.jpg" alt="Beckmen Vineyards - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								A complete rebranding of Beckmen Vineyards' website and wine club.
-							</figcaption>
+							<img src="images/featured-projects/beckmen-vineyards-logo.jpg" alt="Beckmen Vineyards - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/beckmen-vineyards.jpg" alt="Beckmen Vineyards" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>Re-Branding, UX, and Digital Strategy</dd>
+								<dt>Role:</dt>
+								<dd>Product Manager, UX Lead, Dev Lead</dd>
+								<dt>Hands-On:</dt>
+								<dd>UX, Digital Strategy</dd>
+							</dl>
 						</figure>
-						
 					</a>
 				</li>
 				<li>
 					<a href="http://www.zenartsla.com">
-						<h4>ZenArts LA <small>#6awards</small></h4>
+						<h4>ZenArts LA <small>6 Awards</small></h4>
 						<figure>
-							<img src="images/featured-projects/zen-arts-la.jpg" alt="Zen Arts LA" width="16" height="9"/>
-							<img src="images/featured-projects/zen-arts-la-logo.jpg" alt="Zen Arts LA - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Extravagant corporate event entertainment and production company.
-							</figcaption>
+							<img src="images/featured-projects/zen-arts-la-logo.jpg" alt="Zen Arts LA - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/zen-arts-la.jpg" alt="Zen Arts LA" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>UX and Implementation.</dd>
+								<dt>Role:</dt>
+								<dd>Project Manager, Full Stack Developer</dd>
+								<dt>Hands-On:</dt>
+								<dd>Full Stack Developer</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 				<li>
 					<a href="http://www.fighterdiet.com">
-						<h4>Fighter Fiet</h4>
+						<h4>Fighter Fiet <small>200% Revenue Increase</small></h4>
 						<figure>
-							<img src="images/featured-projects/fighter-diet.jpg" alt="Fighter Diet" width="16" height="9"/>
-							<img src="images/featured-projects/fighter-diet.jpg" alt="Fighter Diet - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Lifestyle, Paulien Nordin, Weight lighting.
-							</figcaption>
+							<img src="images/featured-projects/fighter-diet-logo.jpg" alt="Fighter Diet - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/fighter-diet.jpg" alt="Fighter Diet" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>UX, Implementation, and Digital Strategy.</dd>
+								<dt>Role:</dt>
+								<dd>Product Manager</dd>
+								<dt>Hands-On:</dt>
+								<dd>Digital Strategy</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.brickbybrickfund.org">
-						<h4>Brick by Brick</h4>
+					<a href="http://www.dburnsdesign.org">
+						<h4>DBurns</h4>
 						<figure>
-							<img src="images/featured-projects/brick-brick.jpg" alt="Brick by Brick Fund" width="16" height="9"/>
-							<img src="images/featured-projects/brick-brick-logo.jpg" alt="Brick by Brick Fund - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Non-Profit. Office Depot API, Inventory, Warehouse, split order, drop shipping
-							</figcaption>
+							<img src="images/featured-projects/dburns-logo.jpg" alt="DBurns - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/dburns.jpg" alt="DBurns" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>UX, and Implementation.</dd>
+								<dt>Role:</dt>
+								<dd>Product Manager</dd>
+								<dt>Hands-On:</dt>
+								<dd>Wordpress Integration</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.thefaretrade.com">
+					<a href="http://member.thefaretrade.com">
 						<h4>The Fare Trade</h4>
 						<figure>
-							<img src="images/featured-projects/the-fare-trade.jpg" alt="The Fare Trade" width="16" height="9"/>
-							<img src="images/featured-projects/the-fare-trade-logo.jpg" alt="The Fare Trade - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Subscription box, linked Fedex, automated recurring payments, shippign warehouse
-							</figcaption>
+							<img src="images/featured-projects/the-fare-trade-logo.jpg" alt="The Fare Trade - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/the-fare-trade.jpg" alt="The Fare Trade" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>UX, and Implementation.</dd>
+								<dt>Role:</dt>
+								<dd>Project Manager</dd>
+								<dt>Hands-On:</dt>
+								<dd>FedEx/Warehouse Integration</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.nixon100.org">
-						<h4>Richard Nixon</h4>
+					<a href="http://www.nikkisharp.com">
+						<h4>Nikki Sharp <small>Featured Health &amp; Fitness App</small></h4>
 						<figure>
-							<img src="images/featured-projects/richard-nixon.jpg" alt="Richard Nixon Centennial" width="16" height="9"/>
-							<img src="images/featured-projects/richard-nixon-logo.jpg" alt="Richard Nixon Centennial - Logo" width="16" height="9" class="replace"/>
-							<figcaption>
-								Online experience for Nixon's centennial exposition.
-							</figcaption>
+							<img src="images/featured-projects/nikki-sharp-logo.jpg" alt="Richard Nixon Centennial - Logo" width="16" height="9"/>							
+							<img src="images/featured-projects/nikki-sharp.jpg" alt="Richard Nixon Centennial" width="16" height="9" class="replace"/>
+							<dl>
+								<dt>Project:</dt>
+								<dd>Branding, UX, and Implementation.</dd>
+								<dt>Role:</dt>
+								<dd>Project Manager, UX Lead</dd>
+								<dt>Hands-On:</dt>
+								<dd>UX, HubSpot, Inbound Marketing</dd>
+							</dl>
 						</figure>
 					</a>
 				</li>
 			</ul>
 		</section>
 		<section id="bio">
-			<h2>1 Minute Bio</h2>
+			<p class="intro"><big><strong>1 Minute Bio: </strong>I guide clients in all aspects of their web development project from the initial strategy and scope to the project management. I strategize end-to-end launch plans for my clients' products and services.</big></p>
 			<div>
-				<p>I guide clients in all aspects of their digital development project from the initial strategy and scope to the project management. I strategize end-to-end launch plans for my clients' products and services.</p>
-				<p>My diverse background includes roles in client relations, project management, front- and back-end development, UX/UI and digital strategy. I enjoy collaborating with people from all disciplines to produce creative digital products. My ability to deeply understand the technical aspects of web development as well as the business and marketing facets allows me to quickly connect with other team members and clients.</p>
+				<p>My diverse background includes roles in client relations, project management, front- and back-end development, UX/UI, and digital strategy. I enjoy collaborating with people from all disciplines to produce creative digital products. My ability to deeply understand the technical aspects of web development as well as the business and marketing facets allows me to quickly connect with other team members and clients.</p>
 				<h3>Previous Experiences</h3>
 				<p>I've previously worked as an IT analyst at <a href="http://en.wikipedia.org/wiki/Sumitomo_Corporation">Sumitomo Corporation</a>, a global Japanese trading company. I was also a graphic designer and software engineer for one of Brazil's largest newspapers, <a href="http://en.wikipedia.org/wiki/O_Estado_de_S._Paulo">O Estado de S. Paulo</a>, “the Estadão.” There, I helped to develop an automation software which was later sold to top-tier Brazilian universities such as <a href="http://en.wikipedia.org/wiki/FGV_Direito_Rio">Fundação Getulio Vargas do Rio de Janeiro</a>.</p>
 				<h3>Education and Awards</h3>
