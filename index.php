@@ -52,12 +52,13 @@
 					Hi, Cornell!
 				</h1>
 				<p>I am Philipe. I'm a product manager with hands-on experience in software development, user experience, and digital strategy.</p>
+				<img src="images/philipe-casarotte.png" width="1480" height="1712" alt="Philipe Casarotte" class="mobile-only"/>
 				<button rel="#why">WHY JOHNSON?</button>
 				<a href="#why" class="animated infinite bounce" rel="#why">
 					<i class="fa fa-angle-down"></i>
 				</a>
 			</div>
-			<div class="col">
+			<div class="col img-desktop">
 				<img src="images/philipe-casarotte.png" width="1480" height="1712" alt="Philipe Casarotte" class="profile-id"/>
 			</div>
 		</header>
@@ -77,9 +78,9 @@
 			<div>	
 				<h2>
 					I'm Currently<br/>
-					<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html">#workingondiettable</a>
+					<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html" target="_blank">#workingondiettable</a>
 				</h2>
-				<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html"><img src="images/logos/diet-table-logo.png" width="94" height="78" alt="Diet Table"/></a>
+				<a href="http://www.dburnsdesign.com/projects/diet-table/staging/home.html" target="_blank"><img src="images/logos/diet-table-logo.png" width="94" height="78" alt="Diet Table"/></a>
 				<p>Marketing Research, Branding, UX, and Implementation. Meal plans for your preferred diet type.</p>
 			</div>
 		</section>
@@ -87,7 +88,7 @@
 			<h2>Selected <strong>projects</strong></h2>
 			<ul>
 				<li>
-					<a href="http://www.sunbit.com">
+					<a href="http://www.sunbit.com" target="_blank">
 						<h4>Sunbit</h4>
 						<figure>
 							<img src="images/featured-projects/sunbit-logo.jpg" alt="Sunbit - Logo" width="16" height="9"/>
@@ -104,7 +105,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="https://www.insedia.com">
+					<a href="https://www.insedia.com" target="_blank">
 						<h4>Insedia</h4>
 						<figure>
 							<img src="images/featured-projects/insedia-logo.jpg" alt="Insedia - Logo" width="16" height="9"/>							
@@ -121,7 +122,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="https://www.alteragents.com">
+					<a href="https://www.alteragents.com" target="_blank">
 						<h4>Alter Agents</h4>
 						<figure>
 							<img src="images/featured-projects/alter-agents-logo.jpg" alt="Alter Agents - Logo" width="16" height="9"/>							
@@ -138,7 +139,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="https://www.beckmenvineyards.com">
+					<a href="https://www.beckmenvineyards.com" target="_blank">
 						<h4>Beckmen <span>Vineyards</span> <small>5 Awards / 50% More Sales</small></h4>
 						<figure>
 							<img src="images/featured-projects/beckmen-vineyards-logo.jpg" alt="Beckmen Vineyards - Logo" width="16" height="9"/>							
@@ -155,7 +156,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://www.zenartsla.com">
+					<a href="http://www.zenartsla.com" target="_blank">
 						<h4>ZenArts LA <small>6 Awards</small></h4>
 						<figure>
 							<img src="images/featured-projects/zen-arts-la-logo.jpg" alt="Zen Arts LA - Logo" width="16" height="9"/>							
@@ -172,7 +173,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://www.fighterdiet.com">
+					<a href="http://www.fighterdiet.com" target="_blank">
 						<h4>Fighter Fiet <small>200% Revenue Increase</small></h4>
 						<figure>
 							<img src="images/featured-projects/fighter-diet-logo.jpg" alt="Fighter Diet - Logo" width="16" height="9"/>							
@@ -189,7 +190,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://www.dburnsdesign.org">
+					<a href="http://www.dburnsdesign.com" target="_blank">
 						<h4>DBurns</h4>
 						<figure>
 							<img src="images/featured-projects/dburns-logo.jpg" alt="DBurns - Logo" width="16" height="9"/>							
@@ -206,7 +207,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://member.thefaretrade.com">
+					<a href="http://member.thefaretrade.com" target="_blank">
 						<h4>The Fare Trade</h4>
 						<figure>
 							<img src="images/featured-projects/the-fare-trade-logo.jpg" alt="The Fare Trade - Logo" width="16" height="9"/>							
@@ -223,7 +224,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="http://www.nikkisharp.com">
+					<a href="http://www.nikkisharp.com" target="_blank">
 						<h4>Nikki Sharp <small>Featured Health &amp; Fitness App</small></h4>
 						<figure>
 							<img src="images/featured-projects/nikki-sharp-logo.jpg" alt="Richard Nixon Centennial - Logo" width="16" height="9"/>							
@@ -246,9 +247,9 @@
 			<div>
 				<p>My diverse background includes roles in client relations, project management, front- and back-end development, UX/UI, and digital strategy. I enjoy collaborating with people from all disciplines to produce creative digital products. My ability to deeply understand the technical aspects of web development as well as the business and marketing facets allows me to quickly connect with other team members and clients.</p>
 				<h3>Previous Experiences</h3>
-				<p>I've previously worked as an IT analyst at <a href="http://en.wikipedia.org/wiki/Sumitomo_Corporation">Sumitomo Corporation</a>, a global Japanese trading company. I was also a graphic designer and software engineer for one of Brazil's largest newspapers, <a href="http://en.wikipedia.org/wiki/O_Estado_de_S._Paulo">O Estado de S. Paulo</a>, “the Estadão.” There, I helped to develop an automation software which was later sold to top-tier Brazilian universities such as <a href="http://en.wikipedia.org/wiki/FGV_Direito_Rio">Fundação Getulio Vargas do Rio de Janeiro</a>.</p>
+				<p>I've previously worked as an IT analyst at <a href="http://en.wikipedia.org/wiki/Sumitomo_Corporation" target="_blank">Sumitomo Corporation</a>, a global Japanese trading company. I was also a graphic designer and software engineer for one of Brazil's largest newspapers, <a href="http://en.wikipedia.org/wiki/O_Estado_de_S._Paulo" target="_blank">O Estado de S. Paulo</a>, “the Estadão.” There, I helped to develop an automation software which was later sold to top-tier Brazilian universities such as <a href="http://en.wikipedia.org/wiki/FGV_Direito_Rio" target="_blank">Fundação Getulio Vargas do Rio de Janeiro</a>.</p>
 				<h3>Education and Awards</h3>
-				<p>I've taught web development for two universities, <a href="http://www.sp.senac.br/"  hreflang="pt-BR">Serviço Nacional de Aprendizagem Comercial</a> and <a href="http://pt.wikipedia.org/wiki/Faculdade_Santa_Marcelina" alt="FASM-SP (pt-BR)" title="FASM-SP (pt-BR)" hreflang="pt-BR">Faculdade Santa Marcelina</a>, and I'm honored that my work has won The Communicator, Davey, and W3 awards. I hold a B.S. in Digital Media from <a href="http://en.wikipedia.org/wiki/Pontif%C3%ADcia_Universidade_Cat%C3%B3lica_de_S%C3%A3o_Paulo">Pontifícia Universidade Católica de São Paulo</a>.</p>
+				<p>I've taught web development for two universities, <a href="http://www.sp.senac.br/"  hreflang="pt-BR" target="_blank">Serviço Nacional de Aprendizagem Comercial</a> and <a href="http://pt.wikipedia.org/wiki/Faculdade_Santa_Marcelina" alt="FASM-SP (pt-BR)" title="FASM-SP (pt-BR)" hreflang="pt-BR" target="_blank">Faculdade Santa Marcelina</a>, and I'm honored that my work has won The Communicator, Davey, and W3 awards. I hold a B.S. in Digital Media from <a href="http://en.wikipedia.org/wiki/Pontif%C3%ADcia_Universidade_Cat%C3%B3lica_de_S%C3%A3o_Paulo" target="_blank">Pontifícia Universidade Católica de São Paulo</a>.</p>
 			</div>
 		</section>
 		<section id="stats">
@@ -285,70 +286,70 @@
 			<h2>Personal Favorites</h2>
 			<ul>
 				<li class="drums">
-					<a href="https://en.wikipedia.org/wiki/Drum_kit">
+					<a href="https://en.wikipedia.org/wiki/Drum_kit" target="_blank">
 						<strong>Drums</strong>
 						<hr/>
 						<small>Air + actual drummer.</small> 
 					</a>
 				</li>
 				<li class="soccer">
-					<a href="https://en.wikipedia.org/wiki/Football">
+					<a href="https://en.wikipedia.org/wiki/Football" target="_blank">
 						<strong>Football</strong>
 						<hr/>
 						<small>I love and play soccer.</small>
 					</a>
 				</li>
 				<li class="chocolate">
-					<a href="https://en.wikipedia.org/wiki/Chocolate">
+					<a href="https://en.wikipedia.org/wiki/Chocolate" target="_blank">
 						<strong>Chocolate</strong>
 						<hr/>
 						<small>Enough said.</small>
 					</a>
 				</li>
 				<li class="philz-coffee">
-					<a href="http://www.philzcoffee.com">
+					<a href="http://www.philzcoffee.com" target="_blank">
 						<strong>Philz Coffee</strong>
 						<hr/>
 						<small>Favorite coffee shop.</small>
 					</a>
 				</li>
 				<li class="maps">
-					<a href="https://www.google.com/maps/place/1431+7th+St,+Santa+Monica,+CA+90401/@34.0182075,-118.4912457,2487m/data=!3m1!1e3!4m2!3m1!1s0x80c2a4cdcf3ba38b:0x449304f6160de955">
+					<a href="https://www.google.com/maps/place/1431+7th+St,+Santa+Monica,+CA+90401/@34.0182075,-118.4912457,2487m/data=!3m1!1e3!4m2!3m1!1s0x80c2a4cdcf3ba38b:0x449304f6160de955" target="_blank">
 						<strong>Maps</strong>
 						<hr/>
 						<small>They fascinate me.</small>
 					</a>
 				</li>
 				<li class="evernote">
-					<a href="http://www.evernote.com">
+					<a href="http://www.evernote.com" target="_blank">
 						<strong>Evernote</strong>
 						<hr/>
 						<small>My every note.</small>
 					</a>
 				</li>
 				<li class="basecamp">
-					<a href="http://www.basecamp.com">
+					<a href="http://www.basecamp.com" target="_blank">
 						<strong>Basecamp 3</strong>
 						<hr/>
 						<small>For a productive day.</small>
 					</a>
 				</li>
 				<li class="terminal">
-					<a href="http://en.wikipedia.org/wiki/Command-line_interface">
+					<a href="http://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
 						<strong>CI</strong>
 						<hr/>
 						<small>Command Line #ftw</small>
 					</a>
 				</li>
 				<li class="textmate">
-					<a href="https://macromates.com">
+					<a href="https://macromates.com" target="_blank">
 						<strong>Textmate</strong>
 						<hr/>
 						<small>Best of friends TE.</small>
 					</a>
 				</li>
 				<li class="axure">
-					<a href="http://www.axure.com">
+					<a href="http://www.axure.com" target="_blank">
 						<strong>Axure</strong>
 						<hr/>
 						<small>For prototyping.</small>
@@ -358,9 +359,9 @@
 		</section>
 		<footer>
 			<nav>
-				<a href="https://www.linkedin.com/in/philipecasarotte" class="fa fa-linkedin"></a>
-				<a href="https://twitter.com/pcasarotte" class="fa fa-twitter"></a>
-				<a href="https://github.com/philipecasarotte/" class="fa fa-github"></a>
+				<a href="https://www.linkedin.com/in/philipecasarotte" class="fa fa-linkedin" target="_blank"></a>
+				<a href="https://twitter.com/pcasarotte" class="fa fa-twitter" target="_blank"></a>
+				<a href="https://github.com/philipecasarotte/" class="fa fa-github" target="_blank"></a>
 			</nav>
 			<a href="tel:13106171037" class="phone">+1 (310) 617.1037</a>
 			<a href="mailto:philipe@casarotte.com?Subject=Hi Philipe">philipe [at] casarotte [dot] com</a>

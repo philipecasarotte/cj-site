@@ -145,7 +145,7 @@ footer nav a {display:inline;text-decoration:none;}
 	header.flexbox {display:-webkit-block;display:-ms-block;display:block;overflow:hidden;}
 	
 	header div {width:100%;height:auto;float:left;flex:none;position:relative;height:80%;}
-	header div img {width:100%;height:auto;position:absolute;bottom:-50%;left:2%;}
+	header div img {width:100%;height:auto;position:absolute;bottom:-50%;left:0;}
 	header div.intro.col {width:100% !important;float:left;height:40%;margin-top:0;}
 	header div.col {margin-top:115%;}
 	header div.intro p {font-size:36px;line-height:38px;margin-bottom:0;text-align:center;}
@@ -172,8 +172,8 @@ footer nav a {display:inline;text-decoration:none;}
 	#work li h4 {font-size:18px;}
 	#work li:nth-child(2), #work li:nth-child(5), #work li:nth-child(8){margin-left:0;margin-right:0;}
 	#work li a {color:white;}
-	#work li a figure img, #work li a:focus figure img {-webkit-filter:none;-webkit-filter:none;filter:none;filter:none;filter:none;opacity:0;}
-	#work li a figure img.replace, #work li a:focus figure img.replace {opacity:1;-webkit-filter:none;filter:none;}
+	#work li a figure img, #work li a:focus figure img {-webkit-filter:none;-webkit-filter:none;filter:none;filter:none;filter:none;opacity:1;}
+	#work li a figure img.replace, #work li a:focus figure img.replace {opacity:0;-webkit-filter:none;filter:none;}
 	#work li a figure figcaption, #work li a:focus figure figcaption {margin-top:-0.1em;opacity:1;}
 	
 	#stats h2 {margin-bottom:10%;}
@@ -223,7 +223,7 @@ footer nav a {display:inline;text-decoration:none;}
 	header div.intro.col {width:100% !important;float:left;height:auto;margin-top:0;}
 	header div.col {margin-top:0;}
 	header div {width:100%;height:auto;float:left;flex:none;position:relative;height:240px;}
-	header div img {width:100%;height:auto;position:absolute;bottom:-50%;left:2%;}
+	header div img {width:100%;height:auto;position:absolute;bottom:-50%;}
 	header div.intro {width:100%;float:left;}
 	header div.intro p {font-size:18px;line-height:24px;margin-bottom:0;text-align:center;padding:0;}
 	header div.intro button {width:90%;font-size:28px;margin-left:5%;}
@@ -280,12 +280,23 @@ footer nav a {display:inline;text-decoration:none;}
 	header.flexbox {display:-webkit-block;display:-ms-block;display:block;overflow:hidden;}
 	
 	header div {width:100%;height:auto;float:left;flex:none;position:relative;height:80%;}
-	header div img {width:100%;height:auto;position:absolute;bottom:-50%;left:2%;}
+	header div img {width:100%;height:auto;position:absolute;bottom:0%;left:0%;}
 	header div.intro.col {width:100% !important;float:left;height:40%;margin-top:0;}
 	header div.col {margin-top:115%;}
 	
 	#why div br {display:none;}
 }
+
+@media only screen and (orientation:portrait){
+	header div.intro button {padding: 2% 5%;}
+	header div.intro h1 {text-align:center;}
+	header div.intro h1 img {margin:0 auto;text-align:center;}
+	.img-desktop, header div img.profile-id {display:none;}
+	header div img.mobile-only {display:block;position:inherit;width:80%;height:auto;margin:0 auto;}
+}
+
+.mobile-only {display:none;}
+
 /*Animations*/
 a.bounce {
     -webkit-animation-duration: 2s;
